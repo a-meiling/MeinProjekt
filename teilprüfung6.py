@@ -2,6 +2,7 @@
 # Dateiname: teilprüfung6_GUI.py
 # Autor: Anne Meiling
 # Letzte Änderung: 15.01.2025
+# Das ist die zweite Änderung für die Git-Teilprüfung
 #----------------------------
 
 class Buch:
