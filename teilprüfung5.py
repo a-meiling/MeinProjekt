@@ -1,10 +1,22 @@
 #----------------------------
-# Dies ist die Bearbeitung für die Git-Teilprüfung
-# Dateiname: teilprüfung6_GUI.py
+# Dateiname: teilprüfung5.py
 # Autor: Anne Meiling
 # Letzte Änderung: 15.01.2025
-# Das ist die zweite Änderung für die Git-Teilprüfung
 #----------------------------
+
+#Simulation eines Online-Buchladens
+#Kategorien: Roman, Sachbuch, Wissenschaft...
+#Buch: Titel, Autor, Kategorie, Preis
+#Klassen: Buch, Buchladen
+#Funktionen: hinzufügen, durchsuchen Kategorien, berechnen Gesamtpreis
+
+#A] Klasse 'Buch' mit Attributen 'titel, autor, kategorie, preis', init & str
+#B] Klasse 'Buchladen' mit Attribut 'inventar' - speichert Liste von Buchobjekten
+#B] Methoden: Hinzufügen von Buch zum Inventar, Durchsuchen des Inventars nach
+#B] Kategorie, Berechnen des Gesamtpreises einer Buchauswahl
+#C] Erstelle paar Buch-Objekte und füge sie Inventar zu
+#C] Teste Funktionalitäten des Buchladens (Bücher nach Kategorie durchsuchen
+#C] & Gesamtpreis für eine Auswahl berechnen
 
 class Buch:
     def __init__(self, titel, autor, kategorie, preis):
@@ -102,3 +114,8 @@ d) Programm beenden
 
 if __name__ == '__main__':
     main()
+            
+                
+            
+        
+        
