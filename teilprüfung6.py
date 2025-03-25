@@ -1,4 +1,5 @@
 #----------------------------
+# Dies ist die Bearbeitung für die Git-Teilprüfung
 # Dateiname: teilprüfung6_GUI.py
 # Autor: Anne Meiling
 # Letzte Änderung: 15.01.2025
